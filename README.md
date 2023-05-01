@@ -1,5 +1,5 @@
 # My-Final-Project : Var planner
-   실시간 동시동작 여행 플래너 
+# 실시간 동시동작 여행 플래너 
 
 <br>
 <br>
