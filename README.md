@@ -72,7 +72,7 @@
 <br>
 
 ## 프로젝트 기획
-
+https://www.notion.so/2-f75cc6ac39dd4de7a901c0df5bb23814?p=4527a88bb3bf458baf0ade640264ee20&pm=s
 ### 여러 방향에서 바라본 `여행`
 
 <br>
